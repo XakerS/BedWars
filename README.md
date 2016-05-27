@@ -3,4 +3,4 @@ Bed Wars plugins on the server PocketMIne
 Map + modest config
 You need to install plugins 2
 _____________________________
-Donate me Qiwi: +79880780890
+Awesome plugin...
